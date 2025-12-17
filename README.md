@@ -17,6 +17,10 @@ This repository tracks my 120-day journey in the Career Acceleration Program, fo
 - **Month 4:** Django applications, local/cloud deployment.
 
 ## Daily Tracking
+- **01. Day 1 - 2025-12-14** - Completed all Day 1 micro-challenges: identity swap, type auditor, precision banker, modulo architect.
+- **02. Day 2 - 2025-12-15** - Completed logic flow: guard clause, floating point trap, truthiness, ternary.
+- **03. Day 3 - 2025-12-16** - Completed loops: infinite guardian, accumulator, skipper, string walker.
+- **04. Day 4 - 2025-12-17** - Completed lists: reference trap, slicing, stack, list comprehension.
 Use this section to log progress. Update after each day with date and key achievements.
 
 - **01. Day 1 - 2025-12-15** - Completed initial setup; learned basic Python syntax; no copy-pasting used.
