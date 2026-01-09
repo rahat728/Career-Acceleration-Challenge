@@ -71,23 +71,21 @@ The program is designed to prepare me for **remote internships or junior roles**
 - **Day 7 — 2025-12-21**  
   Error handling: input validation, math safety, cleanup with `finally`, custom exceptions.
 
+- **Day 9 — 2026-01-09**  
+  Mastered Generators: basic yield, memory profiling, infinite sequences (Fibonacci), exhaustibility, pipeline chaining, large file handling, `yield from` delegation, and two-way communication with `.send()`.
+
 ---
 
 ## Repository Structure
 
 Day 1/
-
 Day 2/
-
 Day 3/
-
 Day 4/
-
 Day 5/
-
 Day 6/
-
 Day 7/
+Day 9/
 projects/
 notes/
 LICENSE
