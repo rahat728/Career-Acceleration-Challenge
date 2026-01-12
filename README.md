@@ -77,6 +77,9 @@ The program is designed to prepare me for **remote internships or junior roles**
 - **Day 10 — 2026-01-11**  
   Deep Dive into Decorators: manual wrappers vs. syntax sugar, handling `*args` and `**kwargs`, return value mechanics, performance timing (AOP), gatekeeper guards, memoization caching, metadata preservation with `functools.wraps`, stacked decorators, and decorator factories.
 
+- **Day 11 — 2026-01-12**  
+  Functional Programming Mastery: implemented micro-challenges for anonymous functions (`lambda`), `map`, `filter`, `reduce` (collapsing lists), `zip` (dictionary building), custom sorting keys, list comprehension performance, short-circuiting logic with `any`/`all`, partial functions (freezing arguments), and the core principle of functional immutability.
+
 ---
 
 ## Repository Structure
@@ -91,6 +94,7 @@ Day 7/
 Day 8/
 Day 9/
 Day 10/
+Day 11/
 projects/
 notes/
 LICENSE
